@@ -11,3 +11,5 @@ Keyla Flores Mercado
 
 ## Estado actual
 Proyecto en desarrollo - versión 1.0
+## Estado final
+Proyecto terminado y listo para presentar. Se realizaron los 3 commits requeridos.
